@@ -1,23 +1,120 @@
-# Atividade Prática 02 - Python 🐍
+# 🐍 Atividade Prática 02 - Python
 
-Este repositório contém uma coleção de 6 exercícios práticos desenvolvidos em Python como parte do **Curso AWS Re/Start**. Cada script aborda conceitos fundamentais como variáveis, operadores matemáticos, entrada de dados (input) e formatação de strings.
+Este repositório reúne uma série de exercícios desenvolvidos durante o programa **AWS re/Start**, com foco na prática dos principais fundamentos da linguagem Python.
+
+Os projetos demonstram conhecimentos em lógica de programação, manipulação de variáveis, operadores matemáticos, entrada e saída de dados, cálculos e formatação de informações, servindo como base para o desenvolvimento de aplicações mais complexas.
 
 ## 🚀 Tecnologias Utilizadas
+
 * Python 3
-* VS Code
-* Git & GitHub
+* Visual Studio Code
+* Git
+* GitHub
 
-## 📋 Lista de Exercícios
+## 📚 Exercícios Desenvolvidos
 
-1. **Conversor de Moeda**: Realiza a conversão de Real para Dólar e Euro com cotações fixas.
-2. **Calculadora de Desconto**: Calcula o preço final de um produto após aplicar uma porcentagem de desconto.
-3. **Calculadora de Média Escolar**: Recebe três notas e calcula a média aritmética.
-4. **Calculadora de Consumo de Combustível**: Calcula quantos km/l um veículo faz baseado na distância e combustível gasto.
-5. **Calculadora de Soma**: Exercício de entrada de dados simples para somar dois valores inteiros.
-6. **Calculadora de Salário**: Calcula o salário mensal baseado em horas trabalhadas e valor por hora.
+### 💱 Conversor de Moedas
 
-## 🛠️ Como executar
-Certifique-se de ter o Python instalado em seu sistema Linux. Para rodar qualquer um dos exercícios, use o terminal:
+Converte valores em Real (BRL) para Dólar (USD) e Euro (EUR) utilizando taxas de câmbio pré-definidas.
+
+**Conceitos aplicados:**
+
+* Variáveis
+* Operações matemáticas
+* Entrada e saída de dados
+
+---
+
+### 🏷️ Calculadora de Desconto
+
+Calcula automaticamente o valor final de um produto após a aplicação de um percentual de desconto.
+
+**Conceitos aplicados:**
+
+* Operadores matemáticos
+* Porcentagem
+* Manipulação de variáveis
+
+---
+
+### 🎓 Calculadora de Média Escolar
+
+Recebe três notas informadas pelo usuário e calcula a média aritmética.
+
+**Conceitos aplicados:**
+
+* Entrada de dados
+* Operações matemáticas
+* Cálculo de médias
+
+---
+
+### ⛽ Calculadora de Consumo de Combustível
+
+Calcula o consumo médio do veículo em quilômetros por litro (km/L) com base na distância percorrida e na quantidade de combustível utilizada.
+
+**Conceitos aplicados:**
+
+* Divisão
+* Entrada de dados
+* Cálculos matemáticos
+
+---
+
+### ➕ Calculadora de Soma
+
+Aplicação simples que recebe dois números inteiros e apresenta a soma dos valores informados.
+
+**Conceitos aplicados:**
+
+* Função `input()`
+* Conversão de tipos
+* Operações básicas
+
+---
+
+### 💰 Calculadora de Salário
+
+Calcula o salário mensal de um funcionário considerando a quantidade de horas trabalhadas e o valor recebido por hora.
+
+**Conceitos aplicados:**
+
+* Variáveis
+* Multiplicação
+* Entrada de dados
+
+---
+
+## ▶️ Como Executar
+
+Clone este repositório:
 
 ```bash
-python3 "nome_do_arquivo.py"
+git clone https://github.com/ValdecirArruda1980/Atividade-Prática-02-Python.git
+```
+
+Acesse a pasta:
+
+```bash
+cd Atividade-Prática-02-Python
+```
+
+Execute qualquer exercício:
+
+```bash
+python3 nome_do_arquivo.py
+```
+
+## 🎯 Objetivo
+
+Este projeto faz parte da minha transição de carreira para a área de Tecnologia e demonstra a evolução dos meus estudos em programação com Python, aplicando conceitos fundamentais que servirão de base para projetos mais avançados.
+
+---
+
+**Desenvolvido por Valdecir Rogério de Arruda**
+
+📍 Piracicaba/SP
+
+🔗 LinkedIn: https://linkedin.com/in/valdecir-arruda/
+
+💻 GitHub: https://github.com/ValdecirArruda1980
